@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "aron_recipes_dyeing:concrete_powder"
+        },
+        {
+            "item": "minecraft:{colour}_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:{colour}_concrete_powder",
+        "count": 1
+    }
+}

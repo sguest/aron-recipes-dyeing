@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:carpets"
+        },
+        {
+            "item": "minecraft:{colour}_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:{colour}_carpet",
+        "count": 1
+    }
+}

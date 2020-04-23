@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "111",
+        "121",
+        "111"
+    ],
+    "key": {
+        "1": {
+            "tag": "aron_recipes_dyeing:concrete_powder"
+        },
+        "2": {
+            "item": "minecraft:{colour}_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:{colour}_concrete_powder",
+        "count": 8
+    }
+}
